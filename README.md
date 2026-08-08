@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,20 +61,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -82,9 +87,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
