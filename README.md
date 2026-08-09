@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -117,10 +120,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
