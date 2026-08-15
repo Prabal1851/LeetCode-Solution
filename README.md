@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -190,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
+| [0707-design-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
