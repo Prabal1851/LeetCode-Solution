@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -196,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
