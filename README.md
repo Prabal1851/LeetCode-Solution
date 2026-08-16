@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Design
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0242-valid-anagram) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0707-design-linked-list) |
