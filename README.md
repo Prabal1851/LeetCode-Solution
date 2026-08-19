@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
