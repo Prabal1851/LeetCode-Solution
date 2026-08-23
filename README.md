@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -226,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
