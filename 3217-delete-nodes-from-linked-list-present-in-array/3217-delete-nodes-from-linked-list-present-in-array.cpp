@@ -12,20 +12,14 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-
         unordered_set<int> st;
-
-        // Store values that need to be removed
         for (int x : nums) {
             st.insert(x);
         }
 
-        // Remove matching nodes from the beginning
         while (head != nullptr && st.count(head->val)) {
             head = head->next;
         }
-
-        // Remove matching nodes from the rest of the list
         ListNode* curr = head;
 
         while (curr != nullptr && curr->next != nullptr) {
