@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
