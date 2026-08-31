@@ -30,7 +30,7 @@ public:
             temp = temp->next;
         }
 
-        // Add remaining nodes
+        
         while(list1 != nullptr) {
             temp->next = new ListNode(list1->val);
             temp = temp->next;
