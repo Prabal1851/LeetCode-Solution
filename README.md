@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0169-majority-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0326-power-of-three) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Pigeonhole Principle
 |  |
