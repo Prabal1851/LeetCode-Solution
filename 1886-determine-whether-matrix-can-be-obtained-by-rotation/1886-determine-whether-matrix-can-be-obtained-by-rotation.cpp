@@ -1,0 +1,36 @@
+class Solution {
+public:
+    void rotate(vector<vector<int>>& mat) {
+        int n = mat.size();
+
+        // Transpose
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                swap(mat[i][j], mat[j][i]);
+            }
+        }
+
+        // Reverse each row
+        for (int i = 0; i < n; i++) {
+            reverse(mat[i].begin(), mat[i].end());
+        }
+    }
+
+    bool equal(vector<vector<int>>& a, vector<vector<int>>& b) {
+        return a == b;
+    }
+
+    bool findRotation(vector<vector<int>>& mat,
+                      vector<vector<int>>& target) {
+
+        for (int rotation = 0; rotation < 4; rotation++) {
+
+            if (mat == target)
+                return true;
+
+            rotate(mat);
+        }
+
+        return false;
+    }
+};
