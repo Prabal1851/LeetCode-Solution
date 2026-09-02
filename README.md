@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0326-power-of-three) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0231-power-of-two) |
