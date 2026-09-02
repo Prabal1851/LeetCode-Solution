@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
