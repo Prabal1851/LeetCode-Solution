@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
