@@ -11,11 +11,11 @@
  */
 
 void inOrder(TreeNode* root, vector<int> &ans){
-    if(root != nullptr){
-        inOrder(root->left, ans);
-        ans.push_back(root->val);
-        inOrder(root->right, ans);
-    }
+    if(!root) return;
+    inOrder(root->left, ans);
+    ans.push_back(root->val);
+    inOrder(root->right, ans);
+    
 }
 
 class Solution {
