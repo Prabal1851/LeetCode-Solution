@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0049-group-anagrams) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0061-rotate-list) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0169-majority-element) |
