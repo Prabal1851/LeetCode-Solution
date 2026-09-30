@@ -10,14 +10,15 @@
  * };
  */
 
- vector<int> inOrder(TreeNode* root, vector<int> &arr){
-    if(root != nullptr){
-        inOrder(root->left,arr);
-        arr.push_back(root->val);
-        inOrder(root->right,arr);
+ void inOrder(TreeNode* root, vector<int> &arr){
+    if(root == nullptr){
+        return;
     }
+    inOrder(root->left,arr);
+    arr.push_back(root->val);
+    inOrder(root->right,arr);
 
-    return arr;
+    
  }
 class Solution {
 public:
