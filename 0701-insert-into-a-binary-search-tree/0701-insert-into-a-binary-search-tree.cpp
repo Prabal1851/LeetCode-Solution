@@ -10,15 +10,15 @@
  * };
  */
 TreeNode* insertNode(TreeNode* root , int val){
-    TreeNode* temp = root;
-    if(temp == nullptr){
+  
+    if(root == nullptr){
         return new TreeNode(val);
     }
-    if(temp->val < val){
-        temp->right = insertNode(temp->right,val);
+    if(root->val < val){
+        root->right = insertNode(root->right,val);
     }
     else{
-        temp->left = insertNode(temp->left,val);
+        root->left = insertNode(root->left,val);
     }
     return root;
 }
