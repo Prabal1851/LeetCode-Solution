@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0856-score-of-parentheses](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2109-adding-spaces-to-a-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0445-add-two-numbers-ii) |
+| [0856-score-of-parentheses](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
