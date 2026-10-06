@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2390-removing-stars-from-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2938-separate-black-and-white-balls) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2938-separate-black-and-white-balls](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2938-separate-black-and-white-balls) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2109-adding-spaces-to-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2938-separate-black-and-white-balls](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2938-separate-black-and-white-balls) |
 ## Design
 |  |
 | ------- |
