@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0856-score-of-parentheses](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2109-adding-spaces-to-a-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2390-removing-stars-from-a-string) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2938-separate-black-and-white-balls](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2938-separate-black-and-white-balls) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Simulation
 |  |
