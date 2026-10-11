@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
