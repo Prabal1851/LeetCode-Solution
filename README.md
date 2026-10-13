@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2938-separate-black-and-white-balls](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2938-separate-black-and-white-balls) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
