@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1695-maximum-erasure-value](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1695-maximum-erasure-value) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
+| [1695-maximum-erasure-value](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1695-maximum-erasure-value) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [1695-maximum-erasure-value](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
