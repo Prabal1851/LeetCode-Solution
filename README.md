@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2390-removing-stars-from-a-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2938-separate-black-and-white-balls](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
