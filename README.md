@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2109-adding-spaces-to-a-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2109-adding-spaces-to-a-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2938-separate-black-and-white-balls](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2938-separate-black-and-white-balls) |
 ## Design
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1695-maximum-erasure-value](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1695-maximum-erasure-value) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0509-fibonacci-number) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Memoization
 |  |
 | ------- |
