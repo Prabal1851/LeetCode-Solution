@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2938-separate-black-and-white-balls](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2942-find-words-containing-character) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2409-count-days-spent-together](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
