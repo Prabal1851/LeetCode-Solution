@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0389-find-the-difference) |
