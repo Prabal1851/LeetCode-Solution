@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0136-single-number) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Memoization
