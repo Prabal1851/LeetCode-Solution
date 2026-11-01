@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
