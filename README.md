@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1695-maximum-erasure-value) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
