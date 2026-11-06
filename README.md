@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2747-count-zero-request-servers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2942-find-words-containing-character) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1695-maximum-erasure-value) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2747-count-zero-request-servers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1695-maximum-erasure-value](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1695-maximum-erasure-value) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2747-count-zero-request-servers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
