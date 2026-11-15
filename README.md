@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1695-maximum-erasure-value) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2409-count-days-spent-together](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2409-count-days-spent-together) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Memoization
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
