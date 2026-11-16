@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2109-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Prabal1851/LeetCode-Solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2109-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Prabal1851/LeetCode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prabal1851/LeetCode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Array
